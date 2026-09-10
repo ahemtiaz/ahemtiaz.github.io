@@ -23,6 +23,9 @@ Hand-written HTML and CSS. No framework, no build step, no dependencies — edit
   worse than none.
 - **Publications.** Tags are `[C#]` for conference/workshop and `[J#]` for
   journal, matching `resume.tex`. Keep the two in sync.
+- **Repository links.** Work from the previous account
+  ([@Anamul-Hoque-Emtiaj](https://github.com/Anamul-Hoque-Emtiaj)) is linked there directly; only
+  new work links to [@ahemtiaz](https://github.com/ahemtiaz).
 - **Adding a publication:** copy an `<article class="pub">` block, and remember
   `<span class="me">` around your own name and `<span class="badge">` for status.
 
